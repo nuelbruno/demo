@@ -1,14 +1,57 @@
+
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "User" : {
+    "errorKey" : "user.exception.login.failed",
+    "user" : {
+      "userId" : "ESIADMIN",
+      "encryptedUserId" : null,
+      "defaultProvince" : null,
+      "lastName" : null,
+      "firstName" : null,
+      "userCode" : null,
+      "systemDefined" : "N",
+      "userType" : "R",
+      "homeRegion" : null,
+      "nihbOfficer" : "N",
+      "nihbSeniorOfficer" : "N",
+      "restrictedProtectedB" : "N",
+      "language" : 1,
+      "organizationCode" : "HC",
+      "effectiveDate" : "2018-03-07T21:20:17.841+0000",
+      "expiryDate" : "9999-12-31T21:20:17.841+0000",
+      "password" : "Temp0000",
+      "passwordExpiryPeriod" : 60,
+      "passwordChangeRequired" : null,
+      "passwordLastChangeDate" : null,
+      "idleLoginPeriod" : 90,
+      "lastLoginDate" : null,
+      "failedLoginTimes" : 0,
+      "accountDisabled" : "N",
+      "accessLevel" : 0,
+      "createdBy" : null,
+      "createdTime" : null,
+      "updatedBy" : null,
+      "updatedTime" : null,
+      "recordStatus" : "A",
+      "searchedBy" : null,
+      "userRoleAssignmentList" : [ ],
+      "provinceCodeList" : [ ],
+      "revokedPrivilegeGroupList" : [ ],
+      "name" : "null null",
+      "nationalUser" : false,
+      "esiuser" : false,
+      "regionalUser" : true,
+      "userRestrictedProtectedB" : false,
+      "userPasswordChangeRequired" : false,
+      "userAccountDisabled" : false,
+      "userNihbOfficer" : false,
+      "userSystemDefined" : false,
+      "discuser" : true,
+      "userNIHBSeniorOfficer" : false,
+      "userOnlyNIHBOfficer" : false
+    },
+    "loginSuccessful" : true
   }
-}
+} 
+
+
