@@ -1,15 +1,181 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" },
-    { "id": 4, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "compID": "196-5-3",
+    "compName": "Friends of the Meadows Clear Round Jumper 0.80m",
+    "compNumber": "500",
+    "compStart": "2018-04-12T02:34:00Z",
+    "courseDesignerCountry": "CAN",
+    "courseDesignerName": "Alexa Hovrisko",
+    "id": "5b7435dd61fa67565b972c19",
+    "isNation": false,
+    "results": [
+        {
+            "competitionResult": "5b7435dd61fa67565b972c19",
+            "horseBreed": "Hanoverian",
+            "horseDamSire": "Ms Jumper",
+            "horseName": "MR JUMPER!",
+            "horseNumber": 100,
+            "horseSex": "M",
+            "horseSire": "Jumper Senior",
+            "horseYear": "2002",
+            "id": "5b74361961fa67565b972c23",
+            "owners": "Adile Abbadi-MacIntosh, Backgrount, Adile Abdullah",
+            "placeNumber": "1",
+            "riderCity": "SOMEWHEWRE",
+            "riderCountry": "CAN",
+            "riderFlag": "https://www.countryflags.io/CA/flat/64.png",
+            "riderName": "ADILE ABBADI-MACINTOSH"
+        },
+        {
+            "competitionResult": "5b7435dd61fa67565b972c19",
+            "horseBreed": "Belgian Warmblood",
+            "horseDamSire": "Unknown",
+            "horseName": "BARON D'HYRECOURT",
+            "horseNumber": 508,
+            "horseSex": "G",
+            "horseSire": "Unknown",
+            "horseYear": "2007",
+            "id": "5b74361961fa67565b972c22",
+            "owners": "Eldorado Equine Ltd.",
+            "placeNumber": "2",
+            "riderCity": "LEDUC, AB",
+            "riderCountry": "CAN",
+            "riderFlag": "https://www.countryflags.io/CA/flat/64.png",
+            "riderName": "CORAH BASNETT"
+        },
+        {
+            "competitionResult": "5b7435dd61fa67565b972c19",
+            "horseBreed": "Zangersheide",
+            "horseDamSire": "Corde",
+            "horseName": "AIRTIME Z GHP",
+            "horseNumber": 507,
+            "horseSex": "G",
+            "horseSire": "Artos Z",
+            "horseYear": "2004",
+            "id": "5b74361961fa67565b972c1f",
+            "owners": "Samia Staehle",
+            "placeNumber": "3",
+            "riderCity": "ARLINGTON, WA",
+            "riderCountry": "USA",
+            "riderFlag": "https://www.countryflags.io/US/flat/64.png",
+            "riderName": "SAMIA STAEHLE"
+        },
+        {
+            "competitionResult": "5b7435dd61fa67565b972c19",
+            "horseBreed": "",
+            "horseDamSire": "Unknown",
+            "horseName": "SUPER LEAP",
+            "horseNumber": 575,
+            "horseSex": "",
+            "horseSire": "Unknown",
+            "horseYear": "",
+            "id": "5b74361961fa67565b972c20",
+            "owners": "Adile Abbadi-MacIntosh",
+            "placeNumber": "4",
+            "result": [
+                {
+                    "competitor": "5b74361961fa67565b972c20",
+                    "id": "5b7c2cedcb7a234de0fda3b9",
+                    "status": "",
+                    "subColumnA": "0.00",
+                    "subColumnB": "56.880",
+                    "subColumnC": ""
+                }
+            ],
+            "riderCity": "CALGARY, AB",
+            "riderCountry": "CAN",
+            "riderFlag": "https://www.countryflags.io/CA/flat/64.png",
+            "riderName": "AMANDA AUGUSTINE FEE"
+        },
+        {
+            "competitionResult": "5b7435dd61fa67565b972c19",
+            "horseBreed": "Appendix Quarter Horse",
+            "horseDamSire": "Unknown",
+            "horseName": "ATHENA",
+            "horseNumber": 500,
+            "horseSex": "M",
+            "horseSire": "Unknown",
+            "horseYear": "2010",
+            "id": "5b74361961fa67565b972c1d",
+            "owners": "Ava Burake",
+            "placeNumber": "5",
+            "riderCity": "GRAND PRAIRIE, AB",
+            "riderCountry": "CAN",
+            "riderFlag": "https://www.countryflags.io/CA/flat/64.png",
+            "riderName": "AVA BURAKE"
+        },
+        {
+            "competitionResult": "5b7435dd61fa67565b972c19",
+            "horseBreed": "Canadian Warmblood",
+            "horseDamSire": "Tremaline",
+            "horseName": "AACHEN",
+            "horseNumber": 513,
+            "horseSex": "G",
+            "horseSire": "Ariadus",
+            "horseYear": "2008",
+            "id": "5b74361a61fa67565b972c24",
+            "owners": "Aceta Specialities Inc.",
+            "placeNumber": "6",
+            "riderCity": "CALGARY, AB",
+            "riderCountry": "CAN",
+            "riderFlag": "https://www.countryflags.io/CA/flat/64.png",
+            "riderName": "TRISTYN OKE"
+        },
+        {
+            "competitionResult": "5b7435dd61fa67565b972c19",
+            "horseBreed": "Irish Sport Horse",
+            "horseDamSire": "Landino",
+            "horseName": "ALBERTA MIST",
+            "horseNumber": 501,
+            "horseSex": "G",
+            "horseSire": "Womanizer",
+            "horseYear": "",
+            "id": "5b74361961fa67565b972c1e",
+            "owners": "Caledonia Stables",
+            "placeNumber": "7",
+            "riderCity": "EDMONTON, AB",
+            "riderCountry": "CAN",
+            "riderFlag": "https://www.countryflags.io/CA/flat/64.png",
+            "riderName": "KATIE KRAFT"
+        },
+        {
+            "competitionResult": "5b7435dd61fa67565b972c19",
+            "horseBreed": "Warmblood",
+            "horseDamSire": "Unknown",
+            "horseName": "BAYLINER",
+            "horseNumber": 590,
+            "horseSex": "G",
+            "horseSire": "Unknown",
+            "horseYear": "2006",
+            "id": "5b74361961fa67565b972c21",
+            "owners": "Tracy Hotchkiss",
+            "placeNumber": "--",
+            "result": [
+                {
+                    "competitor": "5b74361961fa67565b972c21",
+                    "id": "5b7c2cb153ae3b4db5b54b3d",
+                    "status": "Elim",
+                    "subColumnA": "",
+                    "subColumnB": "",
+                    "subColumnC": ""
+                }
+            ],
+            "riderCity": "ROCKY VIEW, AB",
+            "riderCountry": "CAN",
+            "riderFlag": "https://www.countryflags.io/CA/flat/64.png",
+            "riderName": "OLIVIA HOTCHKISS"
+        }
+    ],
+    "resultsHeader": [
+        {
+            "competition": "5b7435dd61fa67565b972c19",
+            "id": "5b7c274dae90614b3a82fe3a",
+            "subHeaderA": "Faults",
+            "subHeaderB": "Time",
+            "subHeaderC": "",
+            "text": "ROUND 1"
+        }
+    ],
+    "ringName": "North American",
+    "scoring": "Table A, 238.2.2 One Jump Off",
+    "scoringDetails": "In this competition, horse/rider combinations negotiate the course trying to go clear within the time allowed. For each jump knocked down, four faults are added to the score. If the horse refuses a jump, four faults are also added. If the horse refuses a second time, the combination is eliminated. Should the horse or rider fall or go off course, they are also eliminated. The Course Designer sets the time allowed in which the riders must complete the course. They are penalised one fault for every four seconds or part of four seconds over the time allowed. After the first round is complete, ALL ties for first place (usually clear rounds) return for a jump-off. The jump-off course is shorter and sometimes higher than the first round. Jumping faults are the same, but time faults are one fault for every one second or part of one second. The combination that has the fewest faults in the fastest time is the winner."
 }
